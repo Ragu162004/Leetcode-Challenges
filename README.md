@@ -16,12 +16,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
