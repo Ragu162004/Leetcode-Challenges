@@ -14,21 +14,17 @@
  * }
  */
 class Solution {
-
-    private void helper(TreeNode root, Set<Integer> values) {
+    int data = 0;
+    int count = 0;
+    private void helper(TreeNode root, int k) {
         if(root == null) return;
-        values.add(root.val);
-        helper(root.left,values);
-        helper(root.right,values);
+        helper(root.left,k);
+        count++;
+        if(count == k) data = root.val;
+        helper(root.right,k);
     }
     public int kthSmallest(TreeNode root, int k) {
-        Set<Integer> values = new TreeSet<>();
-        helper(root,values); 
-        int min = Integer.MAX_VALUE;
-        for(int ele : values) {
-            k--;
-            if(k == 0) return ele;
-        }
-        return 0;
+        helper(root,k); 
+        return data;
     }
 }
