@@ -59,5 +59,6 @@
 ## Math
 |  |
 | ------- |
+| [0504-base-7](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 <!---LeetCode Topics End-->
