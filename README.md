@@ -56,4 +56,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0111-minimum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1070-convert-to-base-2](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 <!---LeetCode Topics End-->
