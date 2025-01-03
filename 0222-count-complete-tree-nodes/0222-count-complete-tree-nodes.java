@@ -14,12 +14,15 @@
  * }
  */
 class Solution {
-
-    private int helper(TreeNode root) {
-        if(root == null) return 0;
-        return 1 + helper(root.left) + helper(root.right);
+    int count = 0;
+    private void helper(TreeNode root) {
+        if(root == null) return;
+        helper(root.left);
+        count++;
+        helper(root.right);
     }
     public int countNodes(TreeNode root) {
-        return helper(root);
+        helper(root);
+        return count;
     }
 }
