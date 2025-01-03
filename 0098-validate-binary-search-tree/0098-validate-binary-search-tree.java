@@ -20,11 +20,11 @@ class Solution {
         if(!isValidBST(root.left))
             return false;
 
-        if(min >= root.val) return false;
-        
+        if(min >= root.val) return false;        
         min = root.val;
-
-        if(!isValidBST(root.right)) return false;
+        
+        if(!isValidBST(root.right))
+            return false;
 
         return true;
     }
