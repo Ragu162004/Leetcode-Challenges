@@ -1,6 +1,7 @@
 class Solution {
     public String convertToBase7(int num) {
         if(num == 0) return "0";
+        if(num > -7 && num < 7) return String.valueOf(num);
         StringBuilder sb = new StringBuilder();
         int flag = 0;
         if(num < 0) {
