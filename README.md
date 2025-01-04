@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
