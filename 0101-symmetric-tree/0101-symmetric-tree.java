@@ -20,7 +20,8 @@ class Solution {
         if(curr1.val != curr2.val) return false;
         return helper(curr1.left,curr2.right) && helper(curr1.right,curr2.left);
     }
-    public boolean isSymmetric(TreeNode root) {     
+    public boolean isSymmetric(TreeNode root) {   
+        if(root == null || (root.left == null && root.right == null)) return true;  
         return helper(root.left,root.right);
     }
 }
