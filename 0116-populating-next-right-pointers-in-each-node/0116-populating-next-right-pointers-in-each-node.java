@@ -22,25 +22,27 @@ class Node {
 */
 
 class Solution {
-    private void helper(List<List<Node>> result, Node root, int level) {
-        if(root == null) return;
-        if(level >= result.size()) {
-            result.add(new ArrayList<>());
-        }
-        result.get(level).add(root);
-        helper(result,root.left, level+1);
-        helper(result,root.right, level+1);
-    }
     public Node connect(Node root) {
-        if(root == null) return root;
-        List<List<Node>> result = new ArrayList<>();
-        helper(result,root,0);
-        for(int i = 0; i < result.size(); i++) {
-            for(int j = 0; j < result.get(i).size(); j++) {
-                if(j == result.get(i).size() - 1) result.get(i).get(j).next = null;
-                else result.get(i).get(j).next = result.get(i).get(j + 1);
+        if (root == null) return root;
+
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            Node prev = null;
+
+            for (int i = 0; i < size; i++) {
+                Node curr = queue.poll();
+                if (prev != null) prev.next = curr;
+                prev = curr;
+                if (curr.left != null) queue.offer(curr.left);
+                if (curr.right != null) queue.offer(curr.right);
             }
+
+            prev.next = null;
         }
+
         return root;
     }
 }
