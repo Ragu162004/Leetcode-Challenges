@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
+| [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
 ## Union Find
 |  |
 | ------- |
