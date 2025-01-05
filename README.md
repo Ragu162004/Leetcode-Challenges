@@ -49,6 +49,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Math
 |  |
 | ------- |
