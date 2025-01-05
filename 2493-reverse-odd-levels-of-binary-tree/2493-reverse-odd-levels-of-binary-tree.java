@@ -27,7 +27,6 @@ class Solution {
         helper(left.right,right.left,level + 1);
     }
     public TreeNode reverseOddLevels(TreeNode root) {
-        if(root == null) return root;
         helper(root.left,root.right,1);
         return root;
     }
