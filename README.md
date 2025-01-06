@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
@@ -187,6 +188,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
@@ -218,5 +220,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
