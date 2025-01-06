@@ -109,48 +109,29 @@ System.out.println("~");
 // } Driver Code Ends
 
 
-//User function Template for Java
-
 class Solution {
     static ArrayList<Integer> verticalOrder(Node root) {
-        if (root == null) return new ArrayList<>();
         TreeMap<Integer, TreeMap<Integer, ArrayList<Integer>>> map = new TreeMap<>();
-        Queue<Pair> queue = new LinkedList<>();
-        queue.add(new Pair(root, 0, 0));
-        
-        while (!queue.isEmpty()) {
-            Pair current = queue.poll();
-            Node node = current.node;
-            int hd = current.hd;
-            int level = current.level;
-
-            map.putIfAbsent(hd, new TreeMap<>());
-            map.get(hd).putIfAbsent(level, new ArrayList<>());
-            map.get(hd).get(level).add(node.data);
-
-            if (node.left != null) queue.add(new Pair(node.left, hd - 1, level + 1));
-            if (node.right != null) queue.add(new Pair(node.right, hd + 1, level + 1));
-        }
-
+        dfs(root, 0, 0, map);
         ArrayList<Integer> result = new ArrayList<>();
         for (TreeMap<Integer, ArrayList<Integer>> levels : map.values()) {
             for (ArrayList<Integer> nodes : levels.values()) {
                 result.addAll(nodes);
             }
         }
-
+        
         return result;
     }
 
-    static class Pair {
-        Node node;
-        int hd, level;
+    private static void dfs(Node root, int hd, int level, TreeMap<Integer, TreeMap<Integer, ArrayList<Integer>>> map) {
+        if (root == null) return;
 
-        Pair(Node node, int hd, int level) {
-            this.node = node;
-            this.hd = hd;
-            this.level = level;
-        }
+        map.putIfAbsent(hd, new TreeMap<>());
+        map.get(hd).putIfAbsent(level, new ArrayList<>());
+        map.get(hd).get(level).add(root.data);
+        
+        dfs(root.left, hd - 1, level + 1, map);  
+        dfs(root.right, hd + 1, level + 1, map); 
     }
 }
 
