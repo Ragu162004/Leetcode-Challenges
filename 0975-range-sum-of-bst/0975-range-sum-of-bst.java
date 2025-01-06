@@ -17,8 +17,12 @@ class Solution {
     private int helper(TreeNode root, int low, int high) {
         if(root == null) 
             return 0;
-
-        return ((root.val >= low && root.val <= high) ? root.val : 0) + helper(root.left,low,high) + helper(root.right, low, high);
+        if(root.val >= low && root.val <= high) 
+            return root.val + helper(root.left, low, high) + helper(root.right, low, high);
+        else if(root.val < low)
+            return helper(root.right, low, high);
+        else 
+            return helper(root.left, low, high); 
     }
     public int rangeSumBST(TreeNode root, int low, int high) {
         return helper(root, low, high);
