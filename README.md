@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0504-base-7](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 ## Linked List
@@ -185,6 +187,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
