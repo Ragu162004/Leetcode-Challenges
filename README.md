@@ -64,6 +64,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -96,6 +97,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -127,6 +129,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -165,6 +168,7 @@
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Math
