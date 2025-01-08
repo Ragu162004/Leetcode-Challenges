@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
@@ -74,6 +75,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0101-symmetric-tree) |
@@ -205,6 +207,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -238,6 +241,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
@@ -290,5 +294,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
