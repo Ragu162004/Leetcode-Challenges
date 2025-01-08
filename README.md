@@ -205,6 +205,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
+| [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -286,4 +287,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
