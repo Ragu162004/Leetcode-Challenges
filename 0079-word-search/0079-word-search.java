@@ -1,48 +1,25 @@
 class Solution {
-    private int rows;
-    private int cols;
-    private Set<String> visited;
+    private boolean helper(char [][] board, int i, int j, String word, int idx) {
+        if(idx == word.length()) return true;
+        if(i < 0 || j < 0 || i >= board.length || j >= board[i].length || board[i][j] != word.charAt(idx)) return false;
 
+        char seen = board[i][j];
+        board[i][j] = '.';
+        
+        boolean flag = helper(board, i - 1, j, word,idx + 1) || helper(board, i + 1, j, word, idx + 1) || helper(board, i, j - 1, word, idx + 1) || helper(board, i, j + 1, word, idx + 1);
+
+        board[i][j] = seen;
+
+        return flag;
+    }
     public boolean exist(char[][] board, String word) {
-        rows = board.length;
-        cols = board[0].length;
-        visited = new HashSet<>();
-
-        Map<Character, Integer> count = new HashMap<>();
-        for (char c : word.toCharArray()) {
-            count.put(c, count.getOrDefault(c, 0) + 1);
-        }
-
-        if (count.getOrDefault(word.charAt(0), 0) > count.getOrDefault(word.charAt(word.length() - 1), 0)) {
-            word = new StringBuilder(word).reverse().toString();
-        }
-
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (dfs(board, word, r, c, 0)) {
+        for(int i = 0; i < board.length; i++) {
+            for(int j = 0;j < board[i].length; j++) {
+                if(helper(board, i, j, word,0)) {
                     return true;
                 }
             }
         }
-
         return false;
     }
-
-    private boolean dfs(char[][] board, String word, int r, int c, int k) {
-        if (k == word.length()) {
-            return true;
-        }
-
-        if (r < 0 || r >= rows || c < 0 || c >= cols || visited.contains(r + "," + c) || board[r][c] != word.charAt(k)) {
-            return false;
-        }
-
-        visited.add(r + "," + c);
-        boolean res = dfs(board, word, r + 1, c, k + 1) ||
-                      dfs(board, word, r - 1, c, k + 1) ||
-                      dfs(board, word, r, c + 1, k + 1) ||
-                      dfs(board, word, r, c - 1, k + 1);
-        visited.remove(r + "," + c);
-        return res;
-    }    
 }
