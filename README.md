@@ -213,6 +213,7 @@
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -282,6 +283,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -292,10 +294,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
