@@ -202,6 +202,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0002-add-two-numbers) |
+| [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
+| [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
