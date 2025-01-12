@@ -41,6 +41,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
@@ -328,4 +330,5 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
