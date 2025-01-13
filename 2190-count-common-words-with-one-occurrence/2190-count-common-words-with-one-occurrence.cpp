@@ -12,8 +12,8 @@ public:
 
         int count = 0;
 
-        for(auto i : map1) {
-            if(i.second == 1 && map2[i.first] == 1) count++;
+        for(auto word : words1) {
+            if(map1[word] == 1 && map2[word] == 1) count++;
         }
 
         return count;
