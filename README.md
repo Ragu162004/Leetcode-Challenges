@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 ## String
@@ -221,6 +222,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
@@ -335,6 +337,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 ## Memoization
