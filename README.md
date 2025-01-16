@@ -20,6 +20,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -172,6 +173,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Breadth-First Search
 |  |
@@ -350,4 +352,8 @@
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
