@@ -55,6 +55,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
@@ -247,6 +248,7 @@
 | [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
