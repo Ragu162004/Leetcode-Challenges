@@ -48,6 +48,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
@@ -237,6 +238,7 @@
 | [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
