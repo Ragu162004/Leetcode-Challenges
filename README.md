@@ -18,6 +18,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2145-grid-game) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -281,6 +282,7 @@
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
 ## Union Find
 |  |
@@ -299,6 +301,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 ## Sorting
 |  |
