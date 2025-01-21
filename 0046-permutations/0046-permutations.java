@@ -9,7 +9,7 @@ class Solution {
             List<List<Integer>> newPermutations = new ArrayList<>();
             
             for (List<Integer> perm : result) {
-                for (int i = 0; i <= perm.size(); i++) {
+                for (int i = perm.size(); i >= 0; i--) {
                     List<Integer> newPerm = new ArrayList<>(perm);
                     newPerm.add(i, num);
                     newPermutations.add(newPerm);
