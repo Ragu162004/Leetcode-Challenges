@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
@@ -362,6 +363,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 ## Dynamic Programming
