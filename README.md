@@ -257,6 +257,7 @@
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -388,6 +389,7 @@
 | [0064-minimum-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
