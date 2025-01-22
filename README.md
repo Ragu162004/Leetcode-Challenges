@@ -256,6 +256,7 @@
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
@@ -395,6 +396,7 @@
 | [0062-unique-paths](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0064-minimum-path-sum) |
+| [0087-scramble-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
