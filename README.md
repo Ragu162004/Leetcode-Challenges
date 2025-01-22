@@ -48,6 +48,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
@@ -271,6 +272,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
