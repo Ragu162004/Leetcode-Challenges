@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
@@ -216,6 +217,7 @@
 | [0226-invert-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -320,6 +322,7 @@
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -406,6 +409,7 @@
 | [0120-triangle](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [1105-uncrossed-lines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1250-longest-common-subsequence) |
