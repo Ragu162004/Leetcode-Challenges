@@ -1,34 +1,41 @@
 class Solution {
-    public boolean isScramble(String s1, String s2) {
-        if (s1.equals(s2)) {
-            return true;
-        }
-        if (!Arrays.equals(s1.chars().sorted().toArray(), s2.chars().sorted().toArray())) {
-            return false;
-        }
+    Map<String, Boolean> mp = new HashMap<>();
+    
+    public boolean helper(String a, String b)
+    {
+        if(a.equals(b) == true) return true;
         
-        int n = s1.length();
-        boolean[][][] dp = new boolean[n][n][n+1];
+        if(a.length() <= 1) return false;
         
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                dp[i][j][1] = (s1.charAt(i) == s2.charAt(j));
+        int n = a.length();
+        boolean check = false;
+        
+        String key = a;
+        
+        key += ' ' + b;
+        
+        if(mp.containsKey(key))
+             return mp.get(key);
+        
+        for(int i = 1; i < n; i++)
+        {
+            boolean swap = helper(a.substring(0, i), b.substring(n - i)) && helper(a.substring(i), b.substring(0, n - i));
+            boolean unswap = helper(a.substring(0,i), b.substring(0,i)) && helper(a.substring(i), b.substring(i));
+            
+            if(swap || unswap){
+                check = true;
+                break;
             }
         }
         
-        for (int length = 2; length <= n; length++) {
-            for (int i = 0; i <= n-length; i++) {
-                for (int j = 0; j <= n-length; j++) {
-                    for (int k = 1; k < length; k++) {
-                        if ((dp[i][j][k] && dp[i+k][j+k][length-k]) || (dp[i][j+length-k][k] && dp[i+k][j][length-k])) {
-                            dp[i][j][length] = true;
-                            break;
-                        }
-                    }
-                }
-            }
-        }
+        mp.put(key, check);
         
-        return dp[0][0][n];
+        return check;
+    }
+    
+    public boolean isScramble(String a, String b)
+    {
+        if(a.equals(b) == true) return true;        
+        return helper(a, b);
     }
 }
