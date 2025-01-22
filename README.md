@@ -220,6 +220,7 @@
 | [0002-add-two-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0504-base-7](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
@@ -373,6 +374,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -398,4 +400,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
