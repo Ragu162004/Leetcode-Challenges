@@ -25,6 +25,7 @@
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [1105-uncrossed-lines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1876-map-of-highest-peak) |
@@ -50,6 +51,7 @@
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -271,6 +273,7 @@
 | [0886-score-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -337,6 +340,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -413,6 +417,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [1105-uncrossed-lines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -456,4 +461,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
