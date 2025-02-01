@@ -45,6 +45,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
