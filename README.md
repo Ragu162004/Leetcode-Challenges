@@ -29,6 +29,7 @@
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [1105-uncrossed-lines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [1364-tuple-with-same-product](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
@@ -61,6 +62,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [1364-tuple-with-same-product](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -403,6 +405,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
