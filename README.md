@@ -69,6 +69,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
+| [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -391,6 +392,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -528,4 +530,12 @@
 | [0820-find-eventual-safe-states](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
