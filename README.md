@@ -89,6 +89,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
@@ -423,6 +425,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
+| [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
