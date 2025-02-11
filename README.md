@@ -88,6 +88,7 @@
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## Tree
@@ -317,6 +318,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -425,6 +427,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
