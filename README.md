@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0047-permutations-ii) |
@@ -59,6 +60,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
