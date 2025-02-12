@@ -45,6 +45,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -75,6 +76,7 @@
 | [2226-rings-and-rods](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
 | [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -395,6 +397,7 @@
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -404,6 +407,7 @@
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
 | ------- |
