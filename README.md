@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
@@ -464,6 +466,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
@@ -533,6 +536,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 ## Topological Sort
 |  |
@@ -548,4 +552,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
