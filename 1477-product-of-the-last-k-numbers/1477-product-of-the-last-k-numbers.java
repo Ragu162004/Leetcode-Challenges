@@ -1,9 +1,10 @@
 class ProductOfNumbers {
-    ArrayList<Integer> list = new ArrayList<>();
-    int prod = 1;
+    ArrayList<Integer> list;
+    int prod;
 
     public ProductOfNumbers() {
-        
+        list = new ArrayList<>();
+        prod = 1;
     }
     
     public void add(int num) {
