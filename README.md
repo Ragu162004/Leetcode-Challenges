@@ -33,6 +33,7 @@
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1876-map-of-highest-peak) |
@@ -279,6 +280,7 @@
 | [0504-base-7](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
 |  |
@@ -352,6 +354,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2145-grid-game) |
@@ -556,6 +559,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -565,4 +569,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
