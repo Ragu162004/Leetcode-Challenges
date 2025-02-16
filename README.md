@@ -282,6 +282,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -473,6 +474,7 @@
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
