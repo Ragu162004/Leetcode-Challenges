@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
@@ -67,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
@@ -311,6 +313,7 @@
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0087-scramble-string) |
@@ -401,6 +404,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
