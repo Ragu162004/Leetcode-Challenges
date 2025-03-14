@@ -23,6 +23,7 @@
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
@@ -327,6 +328,7 @@
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
@@ -398,6 +400,7 @@
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
@@ -475,6 +478,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -493,6 +497,7 @@
 | [0047-permutations-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
+| [0212-word-search-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
