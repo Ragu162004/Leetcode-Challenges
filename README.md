@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0198-house-robber) |
@@ -501,6 +502,7 @@
 | [0064-minimum-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0221-maximal-square) |
