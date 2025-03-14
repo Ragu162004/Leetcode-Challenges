@@ -136,6 +136,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
@@ -173,6 +174,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -216,6 +218,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -474,6 +477,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -492,6 +496,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
