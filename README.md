@@ -99,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -303,12 +304,14 @@
 | [0002-add-two-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 ## String
 |  |
@@ -580,6 +583,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 ## Topological Sort
 |  |
