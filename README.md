@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0046-permutations) |
@@ -406,6 +407,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
@@ -563,6 +565,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 ## Topological Sort
