@@ -132,6 +132,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
@@ -169,6 +170,7 @@
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
@@ -214,6 +216,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
@@ -236,6 +239,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
