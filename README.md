@@ -621,4 +621,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
