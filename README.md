@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
+| [0517-super-washing-machines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0854-making-a-large-island) |
@@ -554,6 +555,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0376-wiggle-subsequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
+| [0517-super-washing-machines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0517-super-washing-machines) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
