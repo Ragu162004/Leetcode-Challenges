@@ -259,6 +259,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2792-neighboring-bitwise-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +310,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
