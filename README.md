@@ -144,6 +144,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -226,6 +227,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -246,6 +248,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
