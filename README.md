@@ -156,6 +156,7 @@
 | [1254-deepest-leaves-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -202,6 +203,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -243,6 +245,7 @@
 | [1254-deepest-leaves-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
