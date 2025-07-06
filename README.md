@@ -259,6 +259,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
@@ -651,4 +652,8 @@
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1153-product-sales-analysis-i) |
 | [1827-invalid-tweets](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1827-invalid-tweets) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
