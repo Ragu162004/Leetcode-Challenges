@@ -57,6 +57,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2685-first-completely-painted-row-or-column) |
@@ -461,6 +462,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -582,6 +584,7 @@
 | [0517-super-washing-machines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0517-super-washing-machines) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -624,6 +627,7 @@
 | [0042-trapping-rain-water](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Topological Sort
 |  |
 | ------- |
