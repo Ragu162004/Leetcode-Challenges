@@ -16,6 +16,7 @@
 | [0063-unique-paths-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0139-word-break) |
@@ -439,6 +441,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0200-number-of-islands) |
