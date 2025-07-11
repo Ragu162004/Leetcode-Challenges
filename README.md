@@ -35,6 +35,7 @@
 | [0517-super-washing-machines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0854-making-a-large-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0854-making-a-large-island) |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0967-minimum-falling-path-sum) |
@@ -270,6 +271,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0538-convert-bst-to-greater-tree) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0975-range-sum-of-bst) |
