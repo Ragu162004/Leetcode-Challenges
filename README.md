@@ -114,6 +114,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
@@ -381,6 +382,7 @@
 | [0639-decode-ways-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0680-valid-palindrome-ii) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
+| [0874-backspace-string-compare](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
@@ -516,6 +518,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
+| [0874-backspace-string-compare](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
@@ -643,6 +646,7 @@
 | [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Topological Sort
