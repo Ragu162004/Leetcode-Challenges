@@ -1,15 +1,12 @@
 class Solution {
-
     class Pair {
         int idx;
         int soldierCount;
-
         Pair(int idx, int soldierCount) {
             this.idx = idx;
             this.soldierCount = soldierCount;
         }
     }
-
 
     private int getOnes(int[] row) {
         int l = 0, h = row.length;
@@ -22,22 +19,16 @@ class Solution {
     }
 
     public int[] kWeakestRows(int[][] mat, int k) {
-        PriorityQueue<Pair> pq = new PriorityQueue<>(
-                Comparator.comparingInt((Pair pair) -> pair.soldierCount).thenComparingInt(pair -> pair.idx));
-
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[1] == b[1] ? a[0] - b[0] : a[1] - b[1]);
         for (int i = 0; i < mat.length; i++) {
             int count = getOnes(mat[i]);
-            pq.add(new Pair(i, count));
+            pq.add(new int[]{i, count});
         }
-
         int[] result = new int[k];
-
         int i = 0;
         while(!pq.isEmpty() && k-- > 0) {
-            result[i++] = pq.poll().idx;
+            result[i++] = pq.poll()[0];
         }
-
         return result;
-
     }
 }
