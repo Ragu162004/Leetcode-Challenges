@@ -412,6 +412,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3684-substring-matching-pattern](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -539,6 +540,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3684-substring-matching-pattern) |
 ## Trie
 |  |
 | ------- |
