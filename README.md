@@ -35,6 +35,7 @@
 | [0455-assign-cookies](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
+| [0661-image-smoother](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0854-making-a-large-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0854-making-a-large-island) |
@@ -460,6 +461,7 @@
 | [0221-maximal-square](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
+| [0661-image-smoother](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0967-minimum-falling-path-sum) |
