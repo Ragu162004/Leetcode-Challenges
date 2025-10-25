@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0231-power-of-two) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
@@ -340,6 +341,7 @@
 | [0013-roman-to-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
@@ -361,6 +363,7 @@
 | [0010-regular-expression-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0231-power-of-two) |
 | [0763-special-binary-string](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 ## String
 |  |
