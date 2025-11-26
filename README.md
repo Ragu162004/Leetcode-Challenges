@@ -33,6 +33,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0661-image-smoother) |
