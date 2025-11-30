@@ -48,6 +48,7 @@
 | [1168-duplicate-zeros](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1168-duplicate-zeros) |
 | [1364-tuple-with-same-product](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1396-count-servers-that-communicate) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -127,6 +128,7 @@
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1441-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
@@ -538,6 +540,7 @@
 | [0054-spiral-matrix](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0874-backspace-string-compare](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0874-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1441-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3447-clear-digits) |
