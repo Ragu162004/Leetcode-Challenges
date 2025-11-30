@@ -52,6 +52,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1524-string-matching-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1590-make-sum-divisible-by-p) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -97,6 +98,7 @@
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1502-construct-k-palindrome-strings) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1590-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
+| [1590-make-sum-divisible-by-p](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2145-grid-game) |
