@@ -43,6 +43,7 @@
 | [0854-making-a-large-island](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0854-making-a-large-island) |
 | [0948-sort-an-array](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0967-minimum-falling-path-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [1105-uncrossed-lines](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/0231-power-of-two) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1022-unique-paths-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2308-divide-array-into-equal-pairs) |
