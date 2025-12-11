@@ -82,6 +82,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
@@ -448,6 +450,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/2465-shifting-letters-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ragu162004/Leetcode-Challenges/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
 | ------- |
